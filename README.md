@@ -1,3 +1,6 @@
-# WordLoom privacy policy
+# Privacy policies
 
-Public privacy policy page for the WordLoom Android app: https://ashishadlivetech.github.io/wordloom-privacy/
+Public privacy policy pages for Adlivetech apps:
+
+- WordLoom: https://ashishadlivetech.github.io/wordloom-privacy/
+- Rookly: https://ashishadlivetech.github.io/wordloom-privacy/rookly/
